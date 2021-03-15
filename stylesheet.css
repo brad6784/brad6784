@@ -1,0 +1,70 @@
+h1 {
+    color: red;
+    font-size:60px;
+    font-family: fantasy;
+    text-align: center;
+
+
+}
+h2{
+    color:red;
+    font-size:40px;
+    font-family: fantasy;
+}
+
+p{
+    color: red;
+    font-size:40px;
+    font-family:fantasy;
+    text-align: center;
+
+}
+p2{
+    color: red;
+
+
+
+}
+
+h3{
+    color: red;
+    font-size:30px;
+    font-family:arial;
+
+
+}
+body{
+    background-color:black;
+}
+
+a{
+    list-style-type: none;
+    margin: 2;
+    padding: 2;
+    overflow: hidden;
+    font-size:40;
+    color:black;
+    color: red;
+    font-family:fantasy;
+    
+    
+  }
+  li{
+    float: left;
+    border-right:1px solid red;
+    border-left:1px solid red;
+    
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    outline-color:red;
+  }
+label{
+    color: red;
+
+
+}
